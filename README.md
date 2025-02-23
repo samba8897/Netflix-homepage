@@ -2,6 +2,8 @@
 
 A **Netflix home page clone** built using **HTML & CSS**. This project replicates the UI of Netflix's landing page, focusing on responsiveness and styling.  
 
+🔗 **[👉 Live Demo](https://samba8897.github.io/Netflix-homepage/)** 
+
 ## **📌 Features**  
 ✅ Fully responsive design  
 ✅ Pure HTML & CSS (No JavaScript)  
