@@ -15,6 +15,6 @@ A **Netflix home page clone** built using **HTML & CSS**. This project replicate
 🚀 Screenshot or live demo link (if hosted)  
 
 ## **📂 How to Use?**  
-1. Clone this repository:  
+Clone this repository:  
    ```sh
    git clone https://github.com/your-username/Netflix-homepage.git
